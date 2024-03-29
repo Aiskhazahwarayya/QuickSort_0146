@@ -7,5 +7,10 @@ int mov_count = 0;
 int n;
 
 void input() {
-	
+    while (true)
+    {
+        cout << "Masukkan panjang element array: ";
+        cin >> n;
+    }
+
 }
